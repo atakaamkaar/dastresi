@@ -161,14 +161,14 @@ const Footer = () => {
             <a
               referrerPolicy="origin"
               target="_blank"
-              href="https://trustseal.enamad.ir/?id=459575&Code=4u4bb1mwWD7m6bFkyaB3VmkLmc3DeldU"
+             
             >
               <img
                 referrerPolicy="origin"
                 src={EnamadLogo}
                 alt="E-Namad Trust Seal"
                 style={{ cursor: "pointer" }}
-                Code="4u4bb1mwWD7m6bFkyaB3VmkLmc3DeldU"
+              
               />
             </a>
           </div>
